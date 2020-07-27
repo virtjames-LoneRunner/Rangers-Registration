@@ -4,4 +4,5 @@ Would like to see what you would change to it.
 
 <h3>Usage</h3>
 Just use the main.py file.
+There are further instructions in the program.
 
