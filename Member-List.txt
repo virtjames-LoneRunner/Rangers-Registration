@@ -4,12 +4,3 @@ John's Data:
 Stephen's Data: 
 {'Ranger Name': 'Blue Ranger', 'First Name': 'Stephen', 'Last Name': 'Strange', 'Middle Name': 'Doctor', 'Age': 28, 'Address': 'New', 'Password': 'password'}
 
-Lourd 's Data: 
-{'Ranger Name': 'Poop', 'First Name': 'Lourd ', 'Last Name': 'Virtudazo', 'Middle Name': 'Orias', 'Age': 17, 'Address': 'Malbog', 'Password': 'tae'}
-
-asidhsau's Data: 
-{'Ranger Name': 'sidjsaid', 'First Name': 'asidhsau', 'Last Name': 'dasod', 'Middle Name': 'saduhi', 'Age': 17, 'Address': 'asdjas', 'Password': 'tae'}
-
-klasjdklajsld's Data: 
-{'Ranger Name': 'sadkljsaldj', 'First Name': 'klasjdklajsld', 'Last Name': 'salkdjlsajd', 'Middle Name': 'ksjdlasjkd', 'Age': 17, 'Address': 'saldjksa', 'Password': 'tae'}
-
